@@ -1,0 +1,41 @@
+html,
+body {
+    position: relative;
+    height: 100%;
+}
+
+body {
+    background: #eee;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.swiper-slide {
+    font-size: 18px;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.promo__bg_one {
+    background-image: url(./img/bg.jpg);
+}
+.promo__bg_two {
+    background-image: url(https://www.rabstol.net/uploads/gallery/main/486/rabstol_net_the_avengers_04.jpg);
+}
+.promo__bg_three {
+    background-image: url(https://img1.akspic.ru/crops/6/6/2/3/63266/63266-mstiteli_beskonechnaya_vojna-zheleznyj_chelovek-altron-mstitel-film-1920x1080.jpg);
+}
+.promo__bg_four {
+    background-image: url(https://wide-w.com/wp-content/uploads/2018/11/mstiteli-vojna-beskonechnosti-vse-personazhi.jpg);
+}
+.promo__bg_five {
+    background-image: url(https://kartinkin.net/uploads/posts/2022-03/thumbs/1647471843_51-kartinkin-net-p-mstiteli-final-kartinki-60.jpg);
+}
